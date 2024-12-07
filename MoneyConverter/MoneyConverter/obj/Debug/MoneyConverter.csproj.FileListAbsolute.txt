@@ -1,0 +1,9 @@
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.exe
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\bin\Debug\MoneyConverter.pdb
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.Form1.resources
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.exe
+D:\Dropbox\Code\ISM 3232\MoneyConverter\MoneyConverter\obj\Debug\MoneyConverter.pdb
