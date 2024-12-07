@@ -1,0 +1,9 @@
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.Form1.resources
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+D:\Dropbox\Code\ISM 3232\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb

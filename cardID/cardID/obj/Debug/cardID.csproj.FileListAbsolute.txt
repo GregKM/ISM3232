@@ -1,0 +1,9 @@
+D:\Dropbox\Code\ISM 3232\cardID\cardID\bin\Debug\cardID.exe.config
+D:\Dropbox\Code\ISM 3232\cardID\cardID\bin\Debug\cardID.exe
+D:\Dropbox\Code\ISM 3232\cardID\cardID\bin\Debug\cardID.pdb
+D:\Dropbox\Code\ISM 3232\cardID\cardID\obj\Debug\cardID.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\cardID\cardID\obj\Debug\cardID.Form1.resources
+D:\Dropbox\Code\ISM 3232\cardID\cardID\obj\Debug\cardID.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\cardID\cardID\obj\Debug\cardID.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\cardID\cardID\obj\Debug\cardID.exe
+D:\Dropbox\Code\ISM 3232\cardID\cardID\obj\Debug\cardID.pdb
