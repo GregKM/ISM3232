@@ -1,0 +1,12 @@
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\gregk\Dropbox\Code\ISM 3232\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\gregk\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\gregk\Dropbox\Code\ISM 3232\Lab5\Lab5\obj\Debug\Lab5.pdb
