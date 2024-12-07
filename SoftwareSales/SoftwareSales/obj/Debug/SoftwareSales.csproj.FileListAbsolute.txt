@@ -1,0 +1,12 @@
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+D:\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
+C:\Users\gregk\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+C:\Users\gregk\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+C:\Users\gregk\Dropbox\Code\ISM 3232\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb

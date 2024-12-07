@@ -1,0 +1,12 @@
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+D:\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\gregk\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\gregk\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\gregk\Dropbox\Code\ISM 3232\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
