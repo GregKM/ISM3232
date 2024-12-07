@@ -1,0 +1,22 @@
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.exe.config
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.exe
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.pdb
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.Form1.resources
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.exe
+D:\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.pdb
+C:\Users\gregk\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.exe.config
+C:\Users\gregk\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.exe
+C:\Users\gregk\Dropbox\Code\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.pdb
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.exe.config
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.exe
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\bin\Debug\HeadsTails.pdb
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.AssemblyReference.cache
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.Form1.resources
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.Properties.Resources.resources
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.GenerateResource.cache
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.exe
+C:\Users\Gregory Mathews\source\repos\ISM 3232\HeadsTails\HeadsTails\obj\Debug\HeadsTails.pdb

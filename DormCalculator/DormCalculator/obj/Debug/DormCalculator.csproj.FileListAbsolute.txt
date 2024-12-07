@@ -1,0 +1,13 @@
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\bin\Debug\DormCalculator.exe.config
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\bin\Debug\DormCalculator.exe
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\bin\Debug\DormCalculator.pdb
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.MainForm.resources
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.Properties.Resources.resources
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.TotalForm.resources
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.csproj.GenerateResource.Cache
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.exe
+D:\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.pdb
+C:\Users\gregk\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\bin\Debug\DormCalculator.exe.config
+C:\Users\gregk\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.exe
+C:\Users\gregk\Dropbox\Code\ISM 3232\DormCalculator\DormCalculator\obj\Debug\DormCalculator.pdb
